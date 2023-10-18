@@ -10,5 +10,5 @@ A risk-averse preview-based Q-learning planner is presented for navigation of au
 ### Overview figure
 ![1st paper](https://github.com/majid-mazouchi/majid-mazouchi.github.io/blob/main/assets/img/RiskQProj.png)
 
-![comparision](https://github.com/majid-mazouchi/majid-mazouchi.github.io/blob/main/assets/img/RiskQProj.png)
+![comparision](https://github.com/majid-mazouchi/majid-mazouchi.github.io/blob/main/assets/img/Algorithm1RiskQLearning)
 
